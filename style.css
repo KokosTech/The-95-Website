@@ -2,6 +2,8 @@ html {
     background-image: url("https://acctcdn.msauth.net/images/2_vD0yppaJX3jBnfbHF1hqXQ2.svg");
     height: 100vh;
     font-family: "Open Sans";
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 body {
